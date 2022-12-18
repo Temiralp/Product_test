@@ -1,2 +1,2 @@
 printf();
-Debug.Log()
+Debug.Logg()
